@@ -1,0 +1,27 @@
+{
+  "name": "guesswath",
+  "version": "1.0.0",
+  "description": "firstUsingWebpack",
+  "main": "entry",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "vue": "^2.5.21",
+    "webpack-cli": "^3.1.2",
+    "webpack": "^4.27.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "ct123456"
+  ],
+  "author": "yyp",
+  "license": "UNLICENSED"
+}
